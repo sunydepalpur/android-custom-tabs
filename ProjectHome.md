@@ -1,0 +1,3 @@
+Example code showing how your app can customized the look of the Android tab widget.  Create a custom view for your tab complete with state lists drawables and more!  This project is from custom tab [tutorial](http://joshclemm.com/blog/?p=136) from my blog.
+
+![http://joshclemm.com/blog/wp-content/uploads/2010/11/custom_tabs_view.png](http://joshclemm.com/blog/wp-content/uploads/2010/11/custom_tabs_view.png)
